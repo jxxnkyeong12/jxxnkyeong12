@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Study%20record&fontSize=90)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxnkyeong12&layout=compact&theme=dark)]
 
 ### Hi there 👋
 
