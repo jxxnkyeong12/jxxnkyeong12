@@ -1,5 +1,9 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jin%20record&fontSize=55)
+<br/>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jin%20record&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&reversal=false&section=footer)
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxxnkyeong12&layout=compact&theme=dark)
 
